@@ -17,6 +17,7 @@
 !Urxvt fonts
 URxvt.font:                 xft: terminus:size=12
 URxvt.boldFont:             xft: terminus:size=12
+!URxvt.font:                 xft: siji:size=12
 
 !--------------------------------------------------------
 

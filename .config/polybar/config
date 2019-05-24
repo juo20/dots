@@ -260,8 +260,11 @@ format-volume = <ramp-volume> <label-volume>
 format-volume-background = ${colors.background}
 label-volume = %percentage%%
 label-volume-foreground = #ffffff
+ramp-volume-2-foreground = #ffa500
+ramp-volume-1-foreground = #cc8400
+ramp-volume-0-foreground = #996300
 
-label-muted = 
+label-muted =  %percentage%%
 label-muted-foreground = #666
 
 ramp-volume-0 = 
@@ -291,7 +294,7 @@ ramp-capacity-0 = 
 ramp-capacity-0-foreground = #E5E500
 ramp-capacity-1 = 
 ramp-capacity-2 =  
-ramp-capacity-3 =  
+ramp-capacity-3 =  
 ramp-capacity-4 =  
 ramp-capacity-foreground = #008000
 

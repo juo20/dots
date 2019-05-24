@@ -20,9 +20,14 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Zathura state=tiled
 bspc rule -a Rxvt state=floating rectangle=800x600+0+0
 
+# running polybar
 ~/.config/polybar/launch.sh &
+
+# battery warning
 bat_notify &
+
+# setting kb layout
 ./kb_layout
 
+# setting wallpaper
 feh --bg-scale ~/Bilder/wallpapers/isocube.png &
-#bspc config background "#f5f5dc"
