@@ -2,4 +2,4 @@
 
 My BSPWM setup!
 
-![](Bilder/screenshots/scrot_setup.png)
+![](Bilder/screenshots/scrot_new.png)
